@@ -15,7 +15,7 @@ BUT my ans in SOL-2 is different, as I am initiation i, j with 0 and 1.
 
  */
 
-// SOL-2
+// SOL-1
 addEvenFibNum_1 = num => {
 
     var i = 1,
